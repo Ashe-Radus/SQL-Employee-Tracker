@@ -14,7 +14,7 @@ CREATE TABLE list_employee (
 
 CREATE TABLE department( 
     id INT PRIMARY KEY,
-    name VARCHAR (30) NOT NULL,
+    name_dept VARCHAR (30) NOT NULL,
 );
 
 CREATE TABLE employee_role(
